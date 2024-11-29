@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 1e7b33d8-6854-4d5c-8c6b-62b7825f3001
+      url: 'https://aesthetic-hotteok-abb81b.netlify.app'
